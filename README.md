@@ -1,5 +1,4 @@
-# XiaoAISchedule-URP-HEBEU[![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-WhiteFan-brightgreen)](https://blog.yuchen.tech)
-![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E4%BD%BF%E7%94%A8%E4%BA%BA%E6%95%B0&query=usedNum&url=https%3A%2F%2Fopen-schedule.ai.xiaomi.com%2Fapi%2Fcoder%3Ftb_id%3D42843)
+# XiaoAISchedule-URP-HEBEU[![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-WhiteFan-brightgreen)](https://www.baifan97.cn) ![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E4%BD%BF%E7%94%A8%E4%BA%BA%E6%95%B0&query=usedNum&url=https%3A%2F%2Fopen-schedule.ai.xiaomi.com%2Fapi%2Fcoder%3Ftb_id%3D42843)
 小爱同学-小爱课程表自动导入功能适配：河北工程大学-URP教务系统
 
 
